@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm [Daniil](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hi there, I'm [Daniil](https://daniilshat.ru/)
 ### ML Researcher | Competitive programming�
 
 I am developing defferent ML projects. I am studying at the Bauman Moscow State Technical University, Computer systems of information processing and management (IU-5), 3rd year. Student of VK-obrazovanie (ex. Technopark), course ML-developer.
