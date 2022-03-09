@@ -13,3 +13,5 @@ I am developing defferent ML projects. I am studying at the Bauman Moscow State 
 
 
 [Sharing photos on Instagram](https://www.instagram.com/lost_in_my_mint/)
+
+![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Come%20again!&fontSize=40&animation=twinkling)
